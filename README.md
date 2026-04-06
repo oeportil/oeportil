@@ -76,7 +76,6 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=tokyonight" />
 </p>
 
@@ -84,7 +83,8 @@
 
 ## 🧩 Proyectos destacados
  
-🔹 Enfocados en sistemas reales y soluciones escalables  
+🔹 Sistemas web enfocados en negocio  
+🔹 APIs escalables con buenas prácticas   
 
 ---
 
